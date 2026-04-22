@@ -1,4 +1,4 @@
-Name: Ibra Gim
+Name: Ibragim Dairov
 Group: CL102
 Favorite OS: Windows
 GitHub Username: IbraGim
