@@ -1,1 +1,4 @@
-
+Name: Ibra Gim
+Group: CL102
+Favorite OS: Windows
+GitHub Username: IbraGim
