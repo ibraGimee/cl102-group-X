@@ -1,1 +1,4 @@
-
+Name: Danil Tsygulev
+Group: CL102 
+Favorite OS: Windows 
+Github Username: stemtop-creator
